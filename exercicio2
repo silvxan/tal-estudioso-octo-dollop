@@ -13,7 +13,7 @@ public class Main {
             if(senha.length() >=6 && senha.length() <= 20 && senha.matches(permitidos) && senha.matches(requeridos)){
                 System.out.println("Senha valida.");
             } else {
-                System.out.println("Senha insegura, falta 3 caracteres.");
+                System.out.println("Senha insegura, falta 3 caracteres para um senha segura.");
             }
         }
     }
