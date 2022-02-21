@@ -1,11 +1,16 @@
 Os exercicios realizados foram feitos na linguagem em c e Java (respectivamente)
 
-No exercicio1 na linguagem em c, o usuário recebe um número n
+No exercicio1 na linguagem em c, o algoritmo  mostre na tela uma escada de tamanho n e utiliza o caractere * e espaços. A base e altura da escada são iguais ao valor de n. A última linha não contém nenhum espaço.
+
+- ENTRADA
+Recebe um valor inteiro n.
 
 - Saída
- Após o usuário digitar o numero, é retornado uma escada de n 
+ Retorna uma escada de valor n.
  
  - Foram utilizados conceitos de /Ciclo/Laço FOR
+
+
 
 No exercicio 2 em Java
 
